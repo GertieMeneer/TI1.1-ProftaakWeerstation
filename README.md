@@ -11,6 +11,6 @@ Created by me, https://github.com/Maersel and 3 other students
 7.7 / 10
 
 ## Date
-Year 1, Period 1 | October 28, 2022 11:59pm
+Year 1, Period 1 | October 28, 2022
 
 ![image](https://github.com/GertieMeneer/TI1.1-ProftaakWeerstation/blob/main/weatherstation.png)
