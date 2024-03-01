@@ -8,7 +8,7 @@ Created by me, https://github.com/Maersel and 3 other students
 - You could view all data (wind speed, humidity, etc) and this project also involved making our own functionality using a lot of data to calculate some other value.
 
 ## Grade
-x.x / 10
+7.7 / 10
 
 ## Date
 Year 1, Period 1 | October 28, 2022 11:59pm
